@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://imgur.com/vxny63o.png" height="50%" width="50%" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Azure Basics ()</h1>
+<h1>Azure Basics</h1>
 This tutorial outlines how to create Resource Groups and Storage Accounts in Azure.<br />
 
 
