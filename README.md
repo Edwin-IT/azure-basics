@@ -16,7 +16,7 @@ This tutorial outlines how to create Resource Groups and Storage Accounts in Azu
 - Step 2: Create a Storage Account within the Resource Group created in Step 1
 - Step 3: Create a file on your local desktop and upload it into the Storage Account
 - Step 4: Edit the file within the Storage Account (within the Azure Portal) Download the file and observe the changes
-- Step 5:Delete the Resource Group created in step 1 (in order to ensure you don’t incur “cost”)
+- Step 5: Delete the Resource Group created in step 1 (in order to ensure you don’t incur “cost”)
 
 
 
